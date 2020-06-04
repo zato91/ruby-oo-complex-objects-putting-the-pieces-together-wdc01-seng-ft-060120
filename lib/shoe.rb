@@ -25,12 +25,12 @@ def size
   @size
 end 
 
-def color=(color)
-  @color = color
+def material=(material)
+  @material = material
 end 
 
-def color
-  @color
+def material
+  @material
 end 
 
 end 
