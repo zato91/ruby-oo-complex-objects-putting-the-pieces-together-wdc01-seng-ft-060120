@@ -43,7 +43,7 @@ end
 
 def cobble 
   puts "Your shoe is as good as new!"
-  sefl.condition = "new"
+  self.condition = "new"
 end 
 
 end 
