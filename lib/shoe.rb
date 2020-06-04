@@ -17,12 +17,12 @@ def color
   @color
 end 
 
-def color=(color)
-  @color = color
+def size=(size)
+  @size = size
 end 
 
-def color
-  @color
+def size
+  @size
 end 
 
 def color=(color)
