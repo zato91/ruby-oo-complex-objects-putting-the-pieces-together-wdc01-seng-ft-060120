@@ -1,5 +1,13 @@
 # Make your shoe class here!
 class Shoe 
   
-def ini
+def initialized(brand)
+  @brand = brand
+end
+
+def brand 
+  @brand 
+end 
+
+
 end 
